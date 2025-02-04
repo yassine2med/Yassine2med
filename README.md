@@ -3,7 +3,7 @@
 <p><em>IT & Network Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-
+![IG (formerly Twitter) URL](https://www.instagram.com/yassine.emmd?igsh=MWpja2tyenRwcXhoNQ%3D%3D&utm_source=qr)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassine2emhamed/)](https://www.linkedin.com/in/yassine2emhamed/)
 ![GitHub followers](https://img.shields.io/github/followers/spojskic?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=yassine2med)
