@@ -1,48 +1,46 @@
-<h2>I'm Yassine Emhamed! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>IT & Network Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yassine.emmd)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassine2emhamed/)](https://www.linkedin.com/in/yassine2emhamed/)
-![GitHub followers](https://img.shields.io/github/followers/spojskic?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=yassine2med)
+<img src="assets/banner.svg" alt="Yassine Emhamed, IT and Network Engineer" width="100%">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<br>
 
-```javascript
-const yassine = {
-    pronouns: "He" | "Him",
-    bio: "I'm a Software Engineer with a Master's equivalent degree in IT & Networking Engineering. 
-          Passionate about Software development, Front-End and User Interface design, and data analysis. 
-          Currently seeking opportunities in tech while gaining experience in customer service.",
-    code: ["Javascript", "React", "Next.js", "HTML", "CSS", "Flutter", "Java", "Python", "PHP", "C"],
-    askMeAbout: ["Problem solving", "GAMING", "data analysis", "tech", "How to turn caffeine into code!", "Too many technologies to list!"],
-    technologies: {
-        frontEnd: {
-            js: ["React.js", "Next.js", "Vue.js"],
-            css: ["Tailwind", "MaterialUI", "Bootstrap", "SCSS", "Chakra UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-            other: ["Spring Boot", "Django", "Laravel"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "MSSQL", "Firebase", "SQLite"],
-        mobile: ["Flutter", "React Native"],
-        cloud: ["AWS", "Firebase", "Vercel", "Netlify"],
-        misc: ["Git", "UML", "Wix", "Strapi", "OAuth", "Docker", "CI/CD"]
-    },
-    funFact: "I know so many technologies that I sometimes forget I know them!"
-};
+**IT and Network Engineer** in the DC, Maryland and Virginia area.
+I build automation, websites and AI tooling that replace manual work.
 
-```
+<a href="https://www.yassine-emhamed.net"><img src="https://img.shields.io/badge/Portfolio-yassine--emhamed.net-22d3ee?style=for-the-badge&labelColor=0b1020" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/yassine2emhamed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="LinkedIn"></a>
+<a href="https://www.yassine-emhamed.net/card"><img src="https://img.shields.io/badge/Digital%20card-View-f472b6?style=for-the-badge&labelColor=0b1020" alt="Digital card"></a>
 
----
+<br><br>
 
+<img src="assets/stats.svg" alt="4+ years, 28 projects, 1,000+ work orders a month, no-shows cut from 28 to 9 percent" width="100%">
 
-### 💻 My most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine2med&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/yassine2med/github-readme-stats)
-### 📖 My Github stats
+</div>
 
-<a href="https://www.yassine-emhamed.com/"><img src="https://streak-stats.demolab.com/?user=yassine2med" width="50%"></a>
+## What I build
 
+<img src="assets/skills.svg" alt="Agentic automation, Python and APIs, Salesforce, web and apps, networks and systems, AI integrations" width="100%">
+
+## Now
+
+- Running **ArcaneDot**, a studio that has shipped 28 projects for 20+ clients, as Founder and CTO.
+- Building **The DMV Hub**, a community site and Discord for DC, Maryland and Virginia.
+- Program analyst on a DC government facilities team, running 1,000+ work orders a month across 900+ public buildings.
+- Studying for the Salesforce Administrator exam, then Agentforce.
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-0b1020?style=flat-square&logo=python&logoColor=22d3ee)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1020?style=flat-square&logo=typescript&logoColor=a78bfa)
+![Next.js](https://img.shields.io/badge/Next.js-0b1020?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0b1020?style=flat-square&logo=react&logoColor=22d3ee)
+![Salesforce](https://img.shields.io/badge/Salesforce-0b1020?style=flat-square&logo=salesforce&logoColor=38bdf8)
+![Claude](https://img.shields.io/badge/Claude%20API-0b1020?style=flat-square&logo=anthropic&logoColor=f472b6)
+![Cisco](https://img.shields.io/badge/Cisco-0b1020?style=flat-square&logo=cisco&logoColor=38bdf8)
+![Vercel](https://img.shields.io/badge/Vercel-0b1020?style=flat-square&logo=vercel&logoColor=white)
+
+<div align="center">
+
+<sub>English &middot; Fran&ccedil;ais &middot; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577; &nbsp;|&nbsp; Silver Spring, MD</sub>
+
+</div>

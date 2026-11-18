@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Key numbers">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#121a36"/><stop offset="1" stop-color="#0b1124"/></linearGradient>
+  </defs>
+  <style>
+    .n{font:800 40px 'Segoe UI',Helvetica,Arial,sans-serif}
+    .l{font:500 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#a5b0d8}
+    .c{animation:rise .9s ease-out both}
+    .c2{animation-delay:.12s}.c3{animation-delay:.24s}.c4{animation-delay:.36s}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+  </style>
+  <g class="c"><rect x="0" y="10" width="282" height="150" rx="20" fill="url(#card)" stroke="#27335f"/><rect x="0" y="10" width="282" height="5" rx="2" fill="url(#g1)"/>
+    <text class="n" x="28" y="82" fill="url(#g1)">4+ yrs</text><text class="l" x="28" y="118">building automation, sites, apps</text></g>
+  <g class="c c2"><rect x="306" y="10" width="282" height="150" rx="20" fill="url(#card)" stroke="#27335f"/><rect x="306" y="10" width="282" height="5" rx="2" fill="url(#g2)"/>
+    <text class="n" x="334" y="82" fill="url(#g2)">28 projects</text><text class="l" x="334" y="118">for 20+ clients at ArcaneDot</text></g>
+  <g class="c c3"><rect x="612" y="10" width="282" height="150" rx="20" fill="url(#card)" stroke="#27335f"/><rect x="612" y="10" width="282" height="5" rx="2" fill="url(#g3)"/>
+    <text class="n" x="640" y="82" fill="url(#g3)">1,000+</text><text class="l" x="640" y="118">work orders a month, 900+ buildings</text></g>
+  <g class="c c4"><rect x="918" y="10" width="282" height="150" rx="20" fill="url(#card)" stroke="#27335f"/><rect x="918" y="10" width="282" height="5" rx="2" fill="url(#g4)"/>
+    <text class="n" x="946" y="82" fill="url(#g4)">28% &#8594; 9%</text><text class="l" x="946" y="118">dental no-shows after our rebuild</text></g>
+</svg>
