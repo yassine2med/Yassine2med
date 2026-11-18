@@ -7,9 +7,9 @@
 **IT and Network Engineer** in the DC, Maryland and Virginia area.
 I build automation, websites and AI tooling that replace manual work.
 
-<a href="https://www.yassine-emhamed.net"><img src="https://img.shields.io/badge/Portfolio-yassine--emhamed.net-22d3ee?style=for-the-badge&labelColor=0b1020" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/yassine2emhamed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="LinkedIn"></a>
-<a href="https://www.yassine-emhamed.net/card"><img src="https://img.shields.io/badge/Digital%20card-View-f472b6?style=for-the-badge&labelColor=0b1020" alt="Digital card"></a>
+<a href="https://www.yassine-emhamed.net"><img src="https://img.shields.io/badge/Portfolio-yassine--emhamed.net-8fb08a?style=for-the-badge&labelColor=14181c" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/yassine2emhamed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8fb08a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14181c" alt="LinkedIn"></a>
+<a href="https://www.yassine-emhamed.net/card"><img src="https://img.shields.io/badge/Digital%20card-View-8fb08a?style=for-the-badge&labelColor=14181c" alt="Digital card"></a>
 
 <br><br>
 
@@ -30,14 +30,14 @@ I build automation, websites and AI tooling that replace manual work.
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-0b1020?style=flat-square&logo=python&logoColor=22d3ee)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b1020?style=flat-square&logo=typescript&logoColor=a78bfa)
-![Next.js](https://img.shields.io/badge/Next.js-0b1020?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0b1020?style=flat-square&logo=react&logoColor=22d3ee)
-![Salesforce](https://img.shields.io/badge/Salesforce-0b1020?style=flat-square&logo=salesforce&logoColor=38bdf8)
-![Claude](https://img.shields.io/badge/Claude%20API-0b1020?style=flat-square&logo=anthropic&logoColor=f472b6)
-![Cisco](https://img.shields.io/badge/Cisco-0b1020?style=flat-square&logo=cisco&logoColor=38bdf8)
-![Vercel](https://img.shields.io/badge/Vercel-0b1020?style=flat-square&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14181c?style=flat-square&logo=python&logoColor=8fb08a)
+![TypeScript](https://img.shields.io/badge/TypeScript-14181c?style=flat-square&logo=typescript&logoColor=8fb08a)
+![Next.js](https://img.shields.io/badge/Next.js-14181c?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-14181c?style=flat-square&logo=react&logoColor=8fb08a)
+![Salesforce](https://img.shields.io/badge/Salesforce-14181c?style=flat-square&logo=salesforce&logoColor=8fb08a)
+![Claude](https://img.shields.io/badge/Claude%20API-14181c?style=flat-square&logo=anthropic&logoColor=8fb08a)
+![Cisco](https://img.shields.io/badge/Cisco-14181c?style=flat-square&logo=cisco&logoColor=8fb08a)
+![Vercel](https://img.shields.io/badge/Vercel-14181c?style=flat-square&logo=vercel&logoColor=white)
 
 <div align="center">
 
