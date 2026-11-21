@@ -29,7 +29,7 @@ I build automation, websites and AI tooling that replace manual work.
 
 ## Selected work
 
-<img src="assets/work.svg" alt="Ten projects I helped build as part of a team at a company. React and Redux: ONP, Waraqi, Channel Shop, Sepret, Alfamines, KooraLife, I-Eteria. WordPress: Senior Maryland Olympics, Imaam Center. Power Apps: Attijariwafa Bank contracting software." width="100%">
+<img src="assets/work.svg" alt="Selected work: ONP (React, TypeScript, Redux); KooraLife (Next.js, Node.js, PostgreSQL); I-Eteria (TypeScript, UML, Agile); Attijariwafa Bank (Java); Senior MD Olympics (React, Vite); Alfamines (Wix, HTML, CSS, PHP); Sepret (WordPress, JavaScript); Waraqi (React, Redux); Channel Shop (React, Redux); Imaam Center (WordPress)." width="100%">
 
 <img src="assets/freelance.svg" alt="30+ websites and portfolios built solo as a freelancer, for individuals" width="100%">
 
