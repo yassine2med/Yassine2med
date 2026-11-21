@@ -33,6 +33,18 @@ I build automation, websites and AI tooling that replace manual work.
 
 <img src="assets/freelance.svg" alt="30+ websites and portfolios built solo as a freelancer, for individuals" width="100%">
 
+## Stack
+
+<img src="assets/stack.svg" alt="Skill levels out of 5: C 4, C++ 4, JavaScript 4, SQL 4, React 4, Redux 4, Claude and AI agents 5, TypeScript 3, Power Apps 3, Salesforce 3, Cisco 3, UniFi 3, UNIX and Windows admin 3, Java 2, Python with AI 2" width="100%">
+
+## How I work
+
+<img src="assets/practices.svg" alt="How I work. Methods: Agile delivery, Software engineering, UML and object-oriented design, Project management, Test-driven habits, CI/CD pipelines, Code review, Technical documentation. Infrastructure: Network design and troubleshooting, TCP/IP and LAN, Wi-Fi and UniFi, Cisco CCNA track, UNIX and Linux administration, Windows administration, Network and systems security, Oracle database administration. Operations and business: Work-order management, Process automation, Vendor coordination, CRM administration, Data analysis and reporting, ERP concepts, Quality management, Entrepreneurship." width="100%">
+
+## Education
+
+<img src="assets/education.svg" alt="Diploma of State Engineer in Computer Science and Network Engineering, EMSI Morocco, 2023. WES evaluation: U.S. bachelor's and master's equivalent, GPA 3.60, 165 credits." width="100%">
+
 ## Claude Code skills
 
 Eleven reusable skills I use every day with Claude Code, rewritten to be generic: root-cause fixes, research, interview prep, approval gates, README polish and more.
@@ -148,14 +160,6 @@ Small tools for the people who keep buildings running: asset registers, work ord
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/eui-calculator"><img src="https://raw.githubusercontent.com/yassine2med/eui-calculator/main/docs/banner.svg" alt="eui-calculator" width="100%"></a></td>
 </tr>
 </table>
-
-## Education
-
-<img src="assets/education.svg" alt="Diploma of State Engineer in Computer Science and Network Engineering, EMSI Morocco, 2023. WES evaluation: U.S. bachelor's and master's equivalent, GPA 3.60, 165 credits." width="100%">
-
-## Stack
-
-<img src="assets/stack.svg" alt="Skill levels out of 5: C 4, C++ 4, JavaScript 4, SQL 4, React 4, Redux 4, Claude and AI agents 5, TypeScript 3, Power Apps 3, Salesforce 3, Cisco 3, UniFi 3, UNIX and Windows admin 3, Java 2, Python with AI 2" width="100%">
 
 <div align="center">
 
