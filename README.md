@@ -151,17 +151,10 @@ Small tools for the people who keep buildings running: asset registers, work ord
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-14181c?style=flat-square&logo=python&logoColor=8fb08a)
-![TypeScript](https://img.shields.io/badge/TypeScript-14181c?style=flat-square&logo=typescript&logoColor=8fb08a)
-![Next.js](https://img.shields.io/badge/Next.js-14181c?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-14181c?style=flat-square&logo=react&logoColor=8fb08a)
-![Salesforce](https://img.shields.io/badge/Salesforce-14181c?style=flat-square&logo=salesforce&logoColor=8fb08a)
-![Claude](https://img.shields.io/badge/Claude%20API-14181c?style=flat-square&logo=anthropic&logoColor=8fb08a)
-![Cisco](https://img.shields.io/badge/Cisco-14181c?style=flat-square&logo=cisco&logoColor=8fb08a)
-![Vercel](https://img.shields.io/badge/Vercel-14181c?style=flat-square&logo=vercel&logoColor=white)
+<img src="assets/stack.svg" alt="Tech stack: Python, TypeScript, JavaScript, SQL; React, Redux, Next.js, Tailwind, WordPress; Power Apps, Salesforce; Claude API, Claude Code, agents and MCP, Playwright; Supabase, Firebase, REST APIs; Cisco, UniFi, Windows admin; Git, GitHub Actions, Vercel, Vitest" width="100%">
 
 <div align="center">
 
-<sub>English &middot; Fran&ccedil;ais &middot; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577; &nbsp;|&nbsp; Silver Spring, MD</sub>
+<sub>English &middot; Fran&ccedil;ais &middot; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</sub>
 
 </div>
