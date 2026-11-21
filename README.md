@@ -51,9 +51,9 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 
 <a href="https://github.com/yassine2med/claude-code-skills"><img src="https://raw.githubusercontent.com/yassine2med/claude-code-skills/main/docs/banner.svg" alt="claude-code-skills" width="100%"></a>
 
-## Open source projects (34 repos)
+## Open source projects (49 repos)
 
-Small tools for the people who keep buildings running: asset registers, work orders, bids, air quality, emergencies. I direct AI coding tools, review every result, and ship a repo only when its tests pass and its README shows real output.
+Small, tested tools for facility, building and operations teams. Each repo has a README with real output, a screenshot, tests and CI.
 
 ### BIM, IFC and documents
 
@@ -64,7 +64,15 @@ Small tools for the people who keep buildings running: asset registers, work ord
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/cobie-to-asset-register"><img src="https://raw.githubusercontent.com/yassine2med/cobie-to-asset-register/main/docs/banner.svg" alt="cobie-to-asset-register" width="100%"></a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/document-naming-linter"><img src="https://raw.githubusercontent.com/yassine2med/document-naming-linter/main/docs/banner.svg" alt="document-naming-linter" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/drawing-index-generator"><img src="https://raw.githubusercontent.com/yassine2med/drawing-index-generator/main/docs/banner.svg" alt="drawing-index-generator" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/facility-glossary-notes"><img src="https://raw.githubusercontent.com/yassine2med/facility-glossary-notes/main/docs/banner.svg" alt="facility-glossary-notes" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/ifc-model-checker"><img src="https://raw.githubusercontent.com/yassine2med/ifc-model-checker/main/docs/banner.svg" alt="ifc-model-checker" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/ifc-quantity-extractor"><img src="https://raw.githubusercontent.com/yassine2med/ifc-quantity-extractor/main/docs/banner.svg" alt="ifc-quantity-extractor" width="100%"></a></td>
 </tr>
 </table>
 
@@ -86,6 +94,10 @@ Small tools for the people who keep buildings running: asset registers, work ord
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/elevator-inspection-tracker"><img src="https://raw.githubusercontent.com/yassine2med/elevator-inspection-tracker/main/docs/banner.svg" alt="elevator-inspection-tracker" width="100%"></a></td>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/facility-condition-index"><img src="https://raw.githubusercontent.com/yassine2med/facility-condition-index/main/docs/banner.svg" alt="facility-condition-index" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/filter-change-planner"><img src="https://raw.githubusercontent.com/yassine2med/filter-change-planner/main/docs/banner.svg" alt="filter-change-planner" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/fire-extinguisher-inspection-log"><img src="https://raw.githubusercontent.com/yassine2med/fire-extinguisher-inspection-log/main/docs/banner.svg" alt="fire-extinguisher-inspection-log" width="100%"></a></td>
 </tr>
 </table>
 
@@ -136,7 +148,11 @@ Small tools for the people who keep buildings running: asset registers, work ord
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/comfort-complaint-heatmap"><img src="https://raw.githubusercontent.com/yassine2med/comfort-complaint-heatmap/main/docs/banner.svg" alt="comfort-complaint-heatmap" width="100%"></a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/haystack-tag-validator"><img src="https://raw.githubusercontent.com/yassine2med/haystack-tag-validator/main/docs/banner.svg" alt="haystack-tag-validator" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/hvac-fault-rules"><img src="https://raw.githubusercontent.com/yassine2med/hvac-fault-rules/main/docs/banner.svg" alt="hvac-fault-rules" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/iaq-sensor-dashboard"><img src="https://raw.githubusercontent.com/yassine2med/iaq-sensor-dashboard/main/docs/banner.svg" alt="iaq-sensor-dashboard" width="100%"></a></td>
 </tr>
 </table>
 
@@ -149,15 +165,27 @@ Small tools for the people who keep buildings running: asset registers, work ord
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/brick-model-builder"><img src="https://raw.githubusercontent.com/yassine2med/brick-model-builder/main/docs/banner.svg" alt="brick-model-builder" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/claude-code-skills"><img src="https://raw.githubusercontent.com/yassine2med/claude-code-skills/main/docs/banner.svg" alt="claude-code-skills" width="100%"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/cleaning-quality-score"><img src="https://raw.githubusercontent.com/yassine2med/cleaning-quality-score/main/docs/banner.svg" alt="cleaning-quality-score" width="100%"></a></td>
-</tr>
-<tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/construction-schedule-gantt"><img src="https://raw.githubusercontent.com/yassine2med/construction-schedule-gantt/main/docs/banner.svg" alt="construction-schedule-gantt" width="100%"></a></td>
-<td width="50%" valign="top"><a href="https://github.com/yassine2med/degree-day-normalizer"><img src="https://raw.githubusercontent.com/yassine2med/degree-day-normalizer/main/docs/banner.svg" alt="degree-day-normalizer" width="100%"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/degree-day-normalizer"><img src="https://raw.githubusercontent.com/yassine2med/degree-day-normalizer/main/docs/banner.svg" alt="degree-day-normalizer" width="100%"></a></td>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/desk-booking-simulator"><img src="https://raw.githubusercontent.com/yassine2med/desk-booking-simulator/main/docs/banner.svg" alt="desk-booking-simulator" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/emergency-contact-tree"><img src="https://raw.githubusercontent.com/yassine2med/emergency-contact-tree/main/docs/banner.svg" alt="emergency-contact-tree" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/emergency-response-plan-template"><img src="https://raw.githubusercontent.com/yassine2med/emergency-response-plan-template/main/docs/banner.svg" alt="emergency-response-plan-template" width="100%"></a></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/eui-calculator"><img src="https://raw.githubusercontent.com/yassine2med/eui-calculator/main/docs/banner.svg" alt="eui-calculator" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/evacuation-drill-tracker"><img src="https://raw.githubusercontent.com/yassine2med/evacuation-drill-tracker/main/docs/banner.svg" alt="evacuation-drill-tracker" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/generator-test-log"><img src="https://raw.githubusercontent.com/yassine2med/generator-test-log/main/docs/banner.svg" alt="generator-test-log" width="100%"></a></td>
+<td width="50%"></td>
 </tr>
 </table>
 
