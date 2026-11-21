@@ -30,20 +30,20 @@ I build automation, websites and AI tooling that replace manual work.
 
 ## Selected work
 
-I have contributed to the design and build of these sites and systems:
+Sites and systems I helped build. On the React projects I worked mostly on the front end, with some back-end work.
 
-| Project | What it is |
-|---|---|
-| **ONP** | Website |
-| **Waraqi** | Website |
-| **Channel Shop** | E-commerce website |
-| **Sepret** | Website |
-| **Alfamines** | Company website |
-| **KooraLife** | Website |
-| **Senior Maryland Olympics** | Event website |
-| **Imaam Center** | Mosque website |
-| **I-Eteria** | Website |
-| **Attijariwafa Bank** | Contracting software |
+| Project | Type | Stack |
+|---|---|---|
+| **ONP** | Website | React, Redux |
+| **Waraqi** | Website | React, Redux |
+| **Channel Shop** | E-commerce website | React, Redux |
+| **Sepret** | Website | React, Redux |
+| **Alfamines** | Company website | React, Redux |
+| **KooraLife** | Website | React, Redux |
+| **Senior Maryland Olympics** | Event website | WordPress |
+| **Imaam Center** | Mosque website | WordPress |
+| **I-Eteria** | Website | React, Redux |
+| **Attijariwafa Bank** | Contracting software | - |
 
 ## Open source projects (34 repos)
 
