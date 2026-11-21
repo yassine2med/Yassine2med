@@ -4,6 +4,8 @@
 
 <br>
 
+<img src="assets/avatar.png" alt="Yassine Emhamed" width="150">
+
 **IT and Network Engineer** in the DC, Maryland and Virginia area.
 I build automation, websites and AI tooling that replace manual work.
 
@@ -28,69 +30,116 @@ I build automation, websites and AI tooling that replace manual work.
 - Program analyst on a DC government facilities team, running 1,000+ work orders a month across 900+ public buildings.
 - Studying for the Salesforce Administrator exam, then Agentforce.
 
-## Open source projects (30 repos)
+
+## Open source projects (34 repos)
 
 Small, tested tools for facility, building and operations teams. Each repo has a README with real output, a screenshot, tests and CI.
 
 ### BIM, IFC and documents
 
-| Repo | What it does |
-|---|---|
-| [bim-room-schedule-exporter](https://github.com/yassine2med/bim-room-schedule-exporter) | Reads an IFC file and writes that schedule as a CSV, with warnings for rooms that have no level, number or area. |
-| [cobie-spreadsheet-validator](https://github.com/yassine2med/cobie-spreadsheet-validator) | Reads a COBie workbook and lists every missing sheet or column, broken reference, duplicate name and bad value. |
-| [cobie-to-asset-register](https://github.com/yassine2med/cobie-to-asset-register) | Turns the Component, Type, Space, Floor and Facility sheets into a CSV with the columns of a facility asset register (the same columns as |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/bim-room-schedule-exporter"><img src="https://raw.githubusercontent.com/yassine2med/bim-room-schedule-exporter/main/docs/banner.svg" alt="bim-room-schedule-exporter" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/cobie-spreadsheet-validator"><img src="https://raw.githubusercontent.com/yassine2med/cobie-spreadsheet-validator/main/docs/banner.svg" alt="cobie-spreadsheet-validator" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/cobie-to-asset-register"><img src="https://raw.githubusercontent.com/yassine2med/cobie-to-asset-register/main/docs/banner.svg" alt="cobie-to-asset-register" width="100%"></a></td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ### Assets and capital planning
 
-| Repo | What it does |
-|---|---|
-| [asset-lifecycle-forecaster](https://github.com/yassine2med/asset-lifecycle-forecaster) | Reads an asset list with install year, expected life and replacement cost, and prints how many assets and how much money fall due in each year. |
-| [asset-register-template](https://github.com/yassine2med/asset-register-template) | Ships a JSON Schema for a facility asset, sample registers, and a small command line validator that reports each bad row and field. |
-| [asset-tag-label-generator](https://github.com/yassine2med/asset-tag-label-generator) | Reads a CSV of assets and writes a PDF sheet of labels, three across and eight down on US Letter paper (2.5 by 1.25 inch each), with the asset ID |
-| [backflow-test-reminder](https://github.com/yassine2med/backflow-test-reminder) | Reads a device list as CSV, computes each next due date and prints the list with the most urgent first. |
-| [capital-plan-builder](https://github.com/yassine2med/capital-plan-builder) | Builds a plan of a chosen length (five years by default) from a CSV of assets. |
-| [deferred-maintenance-ranker](https://github.com/yassine2med/deferred-maintenance-ranker) | Ranks a deferred maintenance backlog by risk and life safety, and picks the items that fit a budget. |
-| [elevator-inspection-tracker](https://github.com/yassine2med/elevator-inspection-tracker) | Lists elevator and escalator certificates soonest expiry first, banded by days left. |
-| [facility-condition-index](https://github.com/yassine2med/facility-condition-index) | Calculates the Facility Condition Index per building from a CSV of building systems. |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/asset-lifecycle-forecaster"><img src="https://raw.githubusercontent.com/yassine2med/asset-lifecycle-forecaster/main/docs/banner.svg" alt="asset-lifecycle-forecaster" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/asset-register-template"><img src="https://raw.githubusercontent.com/yassine2med/asset-register-template/main/docs/banner.svg" alt="asset-register-template" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/asset-tag-label-generator"><img src="https://raw.githubusercontent.com/yassine2med/asset-tag-label-generator/main/docs/banner.svg" alt="asset-tag-label-generator" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/backflow-test-reminder"><img src="https://raw.githubusercontent.com/yassine2med/backflow-test-reminder/main/docs/banner.svg" alt="backflow-test-reminder" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/capital-plan-builder"><img src="https://raw.githubusercontent.com/yassine2med/capital-plan-builder/main/docs/banner.svg" alt="capital-plan-builder" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/deferred-maintenance-ranker"><img src="https://raw.githubusercontent.com/yassine2med/deferred-maintenance-ranker/main/docs/banner.svg" alt="deferred-maintenance-ranker" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/elevator-inspection-tracker"><img src="https://raw.githubusercontent.com/yassine2med/elevator-inspection-tracker/main/docs/banner.svg" alt="elevator-inspection-tracker" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/facility-condition-index"><img src="https://raw.githubusercontent.com/yassine2med/facility-condition-index/main/docs/banner.svg" alt="facility-condition-index" width="100%"></a></td>
+</tr>
+</table>
 
 ### Cost, contracts and procurement
 
-| Repo | What it does |
-|---|---|
-| [bid-tabulation-tool](https://github.com/yassine2med/bid-tabulation-tool) | Compares contractor bids line by line and prices the scope each bidder left out, so the lowest bid is not just the most incomplete one. |
-| [budget-vs-actual-report](https://github.com/yassine2med/budget-vs-actual-report) | Reads a budget CSV and an actuals CSV, adds up both from January through a chosen month, and prints the variance for each cost center and category |
-| [change-order-log](https://github.com/yassine2med/change-order-log) | A SQLite log of construction change orders that keeps the running contract total, pending exposure and added days for each project. |
-| [dc-building-permits-explorer](https://github.com/yassine2med/dc-building-permits-explorer) | Counts building permits and sums declared cost from a permit CSV, with a text bar chart. |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/bid-tabulation-tool"><img src="https://raw.githubusercontent.com/yassine2med/bid-tabulation-tool/main/docs/banner.svg" alt="bid-tabulation-tool" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/budget-vs-actual-report"><img src="https://raw.githubusercontent.com/yassine2med/budget-vs-actual-report/main/docs/banner.svg" alt="budget-vs-actual-report" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/change-order-log"><img src="https://raw.githubusercontent.com/yassine2med/change-order-log/main/docs/banner.svg" alt="change-order-log" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/cost-code-mapper"><img src="https://raw.githubusercontent.com/yassine2med/cost-code-mapper/main/docs/banner.svg" alt="cost-code-mapper" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/dc-building-permits-explorer"><img src="https://raw.githubusercontent.com/yassine2med/dc-building-permits-explorer/main/docs/banner.svg" alt="dc-building-permits-explorer" width="100%"></a></td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ### Work orders and service desk
 
-| Repo | What it does |
-|---|---|
-| [311-service-request-analyzer](https://github.com/yassine2med/311-service-request-analyzer) | Reads a service request CSV and prints, for each category, the count, open count, median and 90th percentile hours to close, and the age of the |
-| [cmms-data-quality-auditor](https://github.com/yassine2med/cmms-data-quality-auditor) | Scores a work-order CSV from a CMMS for data quality, with a count per rule and a list of the worst records. |
-| [cmms-export-cleaner](https://github.com/yassine2med/cmms-export-cleaner) | Normalizes a messy CMMS CSV export into a clean file plus a file of rejected rows. |
-| [cmms-sql-cookbook](https://github.com/yassine2med/cmms-sql-cookbook) | Six SQL queries every maintenance team ends up writing: backlog by priority, aging buckets, MTTR, PM compliance, repeat failures and technician |
-| [daily-log-builder](https://github.com/yassine2med/daily-log-builder) | Generate a construction daily report in Markdown from a JSON record of the site day. |
-| [duplicate-workorder-detector](https://github.com/yassine2med/duplicate-workorder-detector) | Flags likely duplicate work orders in a CSV and groups them for review. |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/311-service-request-analyzer"><img src="https://raw.githubusercontent.com/yassine2med/311-service-request-analyzer/main/docs/banner.svg" alt="311-service-request-analyzer" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/cmms-data-quality-auditor"><img src="https://raw.githubusercontent.com/yassine2med/cmms-data-quality-auditor/main/docs/banner.svg" alt="cmms-data-quality-auditor" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/cmms-export-cleaner"><img src="https://raw.githubusercontent.com/yassine2med/cmms-export-cleaner/main/docs/banner.svg" alt="cmms-export-cleaner" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/cmms-sql-cookbook"><img src="https://raw.githubusercontent.com/yassine2med/cmms-sql-cookbook/main/docs/banner.svg" alt="cmms-sql-cookbook" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/daily-log-builder"><img src="https://raw.githubusercontent.com/yassine2med/daily-log-builder/main/docs/banner.svg" alt="daily-log-builder" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/dispatch-route-optimizer"><img src="https://raw.githubusercontent.com/yassine2med/dispatch-route-optimizer/main/docs/banner.svg" alt="dispatch-route-optimizer" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/duplicate-workorder-detector"><img src="https://raw.githubusercontent.com/yassine2med/duplicate-workorder-detector/main/docs/banner.svg" alt="duplicate-workorder-detector" width="100%"></a></td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ### Building systems and air quality
 
-| Repo | What it does |
-|---|---|
-| [building-energy-open-data-explorer](https://github.com/yassine2med/building-energy-open-data-explorer) | Loads such a table, computes site energy use intensity (EUI) for every building, ranks each one within its property type, and flags statistical |
-| [co2-ventilation-estimator](https://github.com/yassine2med/co2-ventilation-estimator) | Does both with plain mass balance maths and the standard library only. |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/building-energy-open-data-explorer"><img src="https://raw.githubusercontent.com/yassine2med/building-energy-open-data-explorer/main/docs/banner.svg" alt="building-energy-open-data-explorer" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/co2-ventilation-estimator"><img src="https://raw.githubusercontent.com/yassine2med/co2-ventilation-estimator/main/docs/banner.svg" alt="co2-ventilation-estimator" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/comfort-complaint-heatmap"><img src="https://raw.githubusercontent.com/yassine2med/comfort-complaint-heatmap/main/docs/banner.svg" alt="comfort-complaint-heatmap" width="100%"></a></td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ### Safety, space and daily operations
 
-| Repo | What it does |
-|---|---|
-| [bacnet-point-list-linter](https://github.com/yassine2med/bacnet-point-list-linter) | Reads a point list CSV and reports naming and object type problems line by line, so a building operations coordinator can send a clear correction |
-| [bacnet-sim-logger](https://github.com/yassine2med/bacnet-sim-logger) | This small tool samples a list of BACnet style points on a fixed step and writes the readings to a CSV file. |
-| [brick-model-builder](https://github.com/yassine2med/brick-model-builder) | Reads a plain equipment spreadsheet, checks it, and writes a Brick model in Turtle, so the same sheet a facility team already keeps can feed any |
-| [cleaning-quality-score](https://github.com/yassine2med/cleaning-quality-score) | Turns cleaning inspection checklists into percentage scores, grades and a pass or fail per building or area. |
-| [construction-schedule-gantt](https://github.com/yassine2med/construction-schedule-gantt) | Turn a CSV of construction tasks into a text Gantt chart and an optional SVG file. |
-| [degree-day-normalizer](https://github.com/yassine2med/degree-day-normalizer) | Adjusts monthly utility use for weather using heating or cooling degree days. |
-| [eui-calculator](https://github.com/yassine2med/eui-calculator) | Converts annual energy and floor area in mixed units to EUI in kBtu per square foot and kWh per square metre. |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/bacnet-point-list-linter"><img src="https://raw.githubusercontent.com/yassine2med/bacnet-point-list-linter/main/docs/banner.svg" alt="bacnet-point-list-linter" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/bacnet-sim-logger"><img src="https://raw.githubusercontent.com/yassine2med/bacnet-sim-logger/main/docs/banner.svg" alt="bacnet-sim-logger" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/brick-model-builder"><img src="https://raw.githubusercontent.com/yassine2med/brick-model-builder/main/docs/banner.svg" alt="brick-model-builder" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/cleaning-quality-score"><img src="https://raw.githubusercontent.com/yassine2med/cleaning-quality-score/main/docs/banner.svg" alt="cleaning-quality-score" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/construction-schedule-gantt"><img src="https://raw.githubusercontent.com/yassine2med/construction-schedule-gantt/main/docs/banner.svg" alt="construction-schedule-gantt" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/degree-day-normalizer"><img src="https://raw.githubusercontent.com/yassine2med/degree-day-normalizer/main/docs/banner.svg" alt="degree-day-normalizer" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/desk-booking-simulator"><img src="https://raw.githubusercontent.com/yassine2med/desk-booking-simulator/main/docs/banner.svg" alt="desk-booking-simulator" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/eui-calculator"><img src="https://raw.githubusercontent.com/yassine2med/eui-calculator/main/docs/banner.svg" alt="eui-calculator" width="100%"></a></td>
+</tr>
+</table>
 
 ## Stack
 
