@@ -33,6 +33,12 @@ I build automation, websites and AI tooling that replace manual work.
 
 <img src="assets/freelance.svg" alt="30+ websites and portfolios built solo as a freelancer, for individuals" width="100%">
 
+## Claude Code skills
+
+Eleven reusable skills I use every day with Claude Code, rewritten to be generic: root-cause fixes, research, interview prep, approval gates, README polish and more.
+
+<a href="https://github.com/yassine2med/claude-code-skills"><img src="https://raw.githubusercontent.com/yassine2med/claude-code-skills/main/docs/banner.svg" alt="claude-code-skills" width="100%"></a>
+
 ## Open source projects (34 repos)
 
 Small tools for the people who keep buildings running: asset registers, work orders, bids, air quality, emergencies. I direct AI coding tools, review every result, and ship a repo only when its tests pass and its README shows real output.
