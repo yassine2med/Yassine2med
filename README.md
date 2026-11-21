@@ -39,9 +39,22 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 
 <a href="https://github.com/yassine2med/claude-code-skills"><img src="https://raw.githubusercontent.com/yassine2med/claude-code-skills/main/docs/banner.svg" alt="claude-code-skills" width="100%"></a>
 
-## Open source projects (68 repos)
+## Open source projects (101 repos)
 
 **Launched November 2026.** For years I solved facility and operations problems inside work systems that cannot be shared. Now I build the same patterns in the open: small tools anyone can run, each with tests, CI and a README that shows real output. I direct AI coding tools, review every result, and publish only when the tests pass. More repos every week.
+
+### Salesforce
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/salesforce-apex-sla-trigger-demo"><img src="https://raw.githubusercontent.com/yassine2med/salesforce-apex-sla-trigger-demo/main/docs/banner.svg" alt="salesforce-apex-sla-trigger-demo" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/salesforce-field-service-sample-data"><img src="https://raw.githubusercontent.com/yassine2med/salesforce-field-service-sample-data/main/docs/banner.svg" alt="salesforce-field-service-sample-data" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/salesforce-report-templates"><img src="https://raw.githubusercontent.com/yassine2med/salesforce-report-templates/main/docs/banner.svg" alt="salesforce-report-templates" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/salesforce-workorder-sample-metadata"><img src="https://raw.githubusercontent.com/yassine2med/salesforce-workorder-sample-metadata/main/docs/banner.svg" alt="salesforce-workorder-sample-metadata" width="100%"></a></td>
+</tr>
+</table>
 
 ### BIM, IFC and documents
 
@@ -91,6 +104,14 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/filter-change-planner"><img src="https://raw.githubusercontent.com/yassine2med/filter-change-planner/main/docs/banner.svg" alt="filter-change-planner" width="100%"></a></td>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/fire-extinguisher-inspection-log"><img src="https://raw.githubusercontent.com/yassine2med/fire-extinguisher-inspection-log/main/docs/banner.svg" alt="fire-extinguisher-inspection-log" width="100%"></a></td>
 </tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/parts-reorder-calculator"><img src="https://raw.githubusercontent.com/yassine2med/parts-reorder-calculator/main/docs/banner.svg" alt="parts-reorder-calculator" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/spare-parts-inventory-cli"><img src="https://raw.githubusercontent.com/yassine2med/spare-parts-inventory-cli/main/docs/banner.svg" alt="spare-parts-inventory-cli" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/warranty-expiry-tracker"><img src="https://raw.githubusercontent.com/yassine2med/warranty-expiry-tracker/main/docs/banner.svg" alt="warranty-expiry-tracker" width="100%"></a></td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ### Cost, contracts and procurement
@@ -114,6 +135,14 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/lease-expiry-calendar"><img src="https://raw.githubusercontent.com/yassine2med/lease-expiry-calendar/main/docs/banner.svg" alt="lease-expiry-calendar" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/permit-to-work-tracker"><img src="https://raw.githubusercontent.com/yassine2med/permit-to-work-tracker/main/docs/banner.svg" alt="permit-to-work-tracker" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/permit-turnaround-calculator"><img src="https://raw.githubusercontent.com/yassine2med/permit-turnaround-calculator/main/docs/banner.svg" alt="permit-turnaround-calculator" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/purchase-order-tracker"><img src="https://raw.githubusercontent.com/yassine2med/purchase-order-tracker/main/docs/banner.svg" alt="purchase-order-tracker" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/quote-comparison-sheet"><img src="https://raw.githubusercontent.com/yassine2med/quote-comparison-sheet/main/docs/banner.svg" alt="quote-comparison-sheet" width="100%"></a></td>
 <td width="50%"></td>
 </tr>
 </table>
@@ -139,7 +168,19 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/mttr-mtbf-calculator"><img src="https://raw.githubusercontent.com/yassine2med/mttr-mtbf-calculator/main/docs/banner.svg" alt="mttr-mtbf-calculator" width="100%"></a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/technician-workload-balancer"><img src="https://raw.githubusercontent.com/yassine2med/technician-workload-balancer/main/docs/banner.svg" alt="technician-workload-balancer" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/ticket-triage-classifier"><img src="https://raw.githubusercontent.com/yassine2med/ticket-triage-classifier/main/docs/banner.svg" alt="ticket-triage-classifier" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/trade-keyword-classifier"><img src="https://raw.githubusercontent.com/yassine2med/trade-keyword-classifier/main/docs/banner.svg" alt="trade-keyword-classifier" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/work-request-email-parser"><img src="https://raw.githubusercontent.com/yassine2med/work-request-email-parser/main/docs/banner.svg" alt="work-request-email-parser" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/work-request-intake-api"><img src="https://raw.githubusercontent.com/yassine2med/work-request-intake-api/main/docs/banner.svg" alt="work-request-intake-api" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/workorder-analytics-dashboard"><img src="https://raw.githubusercontent.com/yassine2med/workorder-analytics-dashboard/main/docs/banner.svg" alt="workorder-analytics-dashboard" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/workorder-sla-timer"><img src="https://raw.githubusercontent.com/yassine2med/workorder-sla-timer/main/docs/banner.svg" alt="workorder-sla-timer" width="100%"></a></td>
 </tr>
 </table>
 
@@ -160,7 +201,7 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/meter-reading-logger"><img src="https://raw.githubusercontent.com/yassine2med/meter-reading-logger/main/docs/banner.svg" alt="meter-reading-logger" width="100%"></a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/water-leak-anomaly-detector"><img src="https://raw.githubusercontent.com/yassine2med/water-leak-anomaly-detector/main/docs/banner.svg" alt="water-leak-anomaly-detector" width="100%"></a></td>
 </tr>
 </table>
 
@@ -214,6 +255,34 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/parcel-lookup-scripts"><img src="https://raw.githubusercontent.com/yassine2med/parcel-lookup-scripts/main/docs/banner.svg" alt="parcel-lookup-scripts" width="100%"></a></td>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/parking-allocation-tool"><img src="https://raw.githubusercontent.com/yassine2med/parking-allocation-tool/main/docs/banner.svg" alt="parking-allocation-tool" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/pest-control-log"><img src="https://raw.githubusercontent.com/yassine2med/pest-control-log/main/docs/banner.svg" alt="pest-control-log" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/pm-scheduler"><img src="https://raw.githubusercontent.com/yassine2med/pm-scheduler/main/docs/banner.svg" alt="pm-scheduler" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/punch-list-manager"><img src="https://raw.githubusercontent.com/yassine2med/punch-list-manager/main/docs/banner.svg" alt="punch-list-manager" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/rfi-tracker"><img src="https://raw.githubusercontent.com/yassine2med/rfi-tracker/main/docs/banner.svg" alt="rfi-tracker" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/room-booking-conflict-checker"><img src="https://raw.githubusercontent.com/yassine2med/room-booking-conflict-checker/main/docs/banner.svg" alt="room-booking-conflict-checker" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/safety-data-sheet-index"><img src="https://raw.githubusercontent.com/yassine2med/safety-data-sheet-index/main/docs/banner.svg" alt="safety-data-sheet-index" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/setpoint-drift-checker"><img src="https://raw.githubusercontent.com/yassine2med/setpoint-drift-checker/main/docs/banner.svg" alt="setpoint-drift-checker" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/snow-event-checklist"><img src="https://raw.githubusercontent.com/yassine2med/snow-event-checklist/main/docs/banner.svg" alt="snow-event-checklist" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/space-utilization-analyzer"><img src="https://raw.githubusercontent.com/yassine2med/space-utilization-analyzer/main/docs/banner.svg" alt="space-utilization-analyzer" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/submittal-register"><img src="https://raw.githubusercontent.com/yassine2med/submittal-register/main/docs/banner.svg" alt="submittal-register" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/toolbox-talk-generator"><img src="https://raw.githubusercontent.com/yassine2med/toolbox-talk-generator/main/docs/banner.svg" alt="toolbox-talk-generator" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/utility-bill-parser"><img src="https://raw.githubusercontent.com/yassine2med/utility-bill-parser/main/docs/banner.svg" alt="utility-bill-parser" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/vendor-scorecard"><img src="https://raw.githubusercontent.com/yassine2med/vendor-scorecard/main/docs/banner.svg" alt="vendor-scorecard" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/visitor-log-cli"><img src="https://raw.githubusercontent.com/yassine2med/visitor-log-cli/main/docs/banner.svg" alt="visitor-log-cli" width="100%"></a></td>
 </tr>
 </table>
 
