@@ -149,9 +149,13 @@ Small tools for the people who keep buildings running: asset registers, work ord
 </tr>
 </table>
 
+## Education
+
+<img src="assets/education.svg" alt="Diploma of State Engineer in Computer Science and Network Engineering, EMSI Morocco, 2023. WES evaluation: U.S. bachelor's and master's equivalent, GPA 3.60, 165 credits." width="100%">
+
 ## Stack
 
-<img src="assets/stack.svg" alt="Tech stack: Python, TypeScript, JavaScript, SQL; React, Redux, Next.js, Tailwind, WordPress; Power Apps, Salesforce; Claude API, Claude Code, agents and MCP, Playwright; Supabase, Firebase, REST APIs; Cisco, UniFi, Windows admin; Git, GitHub Actions, Vercel, Vitest" width="100%">
+<img src="assets/stack.svg" alt="Skill levels out of 5: C 4, C++ 4, JavaScript 4, SQL 4, React 4, Redux 4, Claude and AI agents 5, TypeScript 3, Power Apps 3, Salesforce 3, Cisco 3, UniFi 3, UNIX and Windows admin 3, Java 2, Python with AI 2" width="100%">
 
 <div align="center">
 
