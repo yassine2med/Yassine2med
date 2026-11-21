@@ -41,7 +41,7 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 
 ## Open source projects (49 repos)
 
-Small, tested tools for facility, building and operations teams. Each repo has a README with real output, a screenshot, tests and CI.
+**Launched November 2026.** For years I solved facility and operations problems inside work systems that cannot be shared. Now I build the same patterns in the open: small tools anyone can run, each with tests, CI and a README that shows real output. I direct AI coding tools, review every result, and publish only when the tests pass. More repos every week.
 
 ### BIM, IFC and documents
 
