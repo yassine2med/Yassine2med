@@ -26,8 +26,24 @@ I build automation, websites and AI tooling that replace manual work.
 - Running **ArcaneDot**, a studio that has shipped 28 projects for 20+ clients, as Founder and CTO.
 - Building **The DMV Hub**, a community site and Discord for DC, Maryland and Virginia.
 - Program analyst on a DC government facilities team, running 1,000+ work orders a month across 900+ public buildings.
-- Studying for the Salesforce Administrator exam, then Agentforce.
 
+
+## Selected work
+
+I have contributed to the design and build of these sites and systems:
+
+| Project | What it is |
+|---|---|
+| **ONP** | Website |
+| **Waraqi** | Website |
+| **Channel Shop** | E-commerce website |
+| **Sepret** | Website |
+| **Alfamines** | Company website |
+| **KooraLife** | Website |
+| **Senior Maryland Olympics** | Event website |
+| **Imaam Center** | Mosque website |
+| **I-Eteria** | Website |
+| **Attijariwafa Bank** | Contracting software |
 
 ## Open source projects (34 repos)
 
