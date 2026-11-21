@@ -43,7 +43,7 @@ I have built **30+ websites and portfolios** for clients and individuals. These 
 | **Senior Maryland Olympics** | Event website | WordPress |
 | **Imaam Center** | Mosque website | WordPress |
 | **I-Eteria** | Website | React, Redux |
-| **Attijariwafa Bank** | Contracting software | - |
+| **Attijariwafa Bank** | Contracting software | Microsoft Power Apps |
 
 ## Open source projects (34 repos)
 
