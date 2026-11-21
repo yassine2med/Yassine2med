@@ -39,7 +39,7 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 
 <a href="https://github.com/yassine2med/claude-code-skills"><img src="https://raw.githubusercontent.com/yassine2med/claude-code-skills/main/docs/banner.svg" alt="claude-code-skills" width="100%"></a>
 
-## Open source projects (49 repos)
+## Open source projects (68 repos)
 
 **Launched November 2026.** For years I solved facility and operations problems inside work systems that cannot be shared. Now I build the same patterns in the open: small tools anyone can run, each with tests, CI and a README that shows real output. I direct AI coding tools, review every result, and publish only when the tests pass. More repos every week.
 
@@ -61,6 +61,10 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/ifc-model-checker"><img src="https://raw.githubusercontent.com/yassine2med/ifc-model-checker/main/docs/banner.svg" alt="ifc-model-checker" width="100%"></a></td>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/ifc-quantity-extractor"><img src="https://raw.githubusercontent.com/yassine2med/ifc-quantity-extractor/main/docs/banner.svg" alt="ifc-quantity-extractor" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/o-and-m-manual-index"><img src="https://raw.githubusercontent.com/yassine2med/o-and-m-manual-index/main/docs/banner.svg" alt="o-and-m-manual-index" width="100%"></a></td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -101,7 +105,15 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/cost-code-mapper"><img src="https://raw.githubusercontent.com/yassine2med/cost-code-mapper/main/docs/banner.svg" alt="cost-code-mapper" width="100%"></a></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/critical-path-calculator"><img src="https://raw.githubusercontent.com/yassine2med/critical-path-calculator/main/docs/banner.svg" alt="critical-path-calculator" width="100%"></a></td>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/dc-building-permits-explorer"><img src="https://raw.githubusercontent.com/yassine2med/dc-building-permits-explorer/main/docs/banner.svg" alt="dc-building-permits-explorer" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/invoice-three-way-match"><img src="https://raw.githubusercontent.com/yassine2med/invoice-three-way-match/main/docs/banner.svg" alt="invoice-three-way-match" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/lease-clause-extractor"><img src="https://raw.githubusercontent.com/yassine2med/lease-clause-extractor/main/docs/banner.svg" alt="lease-clause-extractor" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/lease-expiry-calendar"><img src="https://raw.githubusercontent.com/yassine2med/lease-expiry-calendar/main/docs/banner.svg" alt="lease-expiry-calendar" width="100%"></a></td>
 <td width="50%"></td>
 </tr>
 </table>
@@ -123,6 +135,10 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/duplicate-workorder-detector"><img src="https://raw.githubusercontent.com/yassine2med/duplicate-workorder-detector/main/docs/banner.svg" alt="duplicate-workorder-detector" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/move-request-tracker"><img src="https://raw.githubusercontent.com/yassine2med/move-request-tracker/main/docs/banner.svg" alt="move-request-tracker" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/mttr-mtbf-calculator"><img src="https://raw.githubusercontent.com/yassine2med/mttr-mtbf-calculator/main/docs/banner.svg" alt="mttr-mtbf-calculator" width="100%"></a></td>
 <td width="50%"></td>
 </tr>
 </table>
@@ -141,6 +157,10 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/hvac-fault-rules"><img src="https://raw.githubusercontent.com/yassine2med/hvac-fault-rules/main/docs/banner.svg" alt="hvac-fault-rules" width="100%"></a></td>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/iaq-sensor-dashboard"><img src="https://raw.githubusercontent.com/yassine2med/iaq-sensor-dashboard/main/docs/banner.svg" alt="iaq-sensor-dashboard" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/meter-reading-logger"><img src="https://raw.githubusercontent.com/yassine2med/meter-reading-logger/main/docs/banner.svg" alt="meter-reading-logger" width="100%"></a></td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -173,7 +193,27 @@ Eleven reusable skills I use every day with Claude Code, rewritten to be generic
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/yassine2med/generator-test-log"><img src="https://raw.githubusercontent.com/yassine2med/generator-test-log/main/docs/banner.svg" alt="generator-test-log" width="100%"></a></td>
-<td width="50%"></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/incident-report-form"><img src="https://raw.githubusercontent.com/yassine2med/incident-report-form/main/docs/banner.svg" alt="incident-report-form" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/inspection-checklist-as-code"><img src="https://raw.githubusercontent.com/yassine2med/inspection-checklist-as-code/main/docs/banner.svg" alt="inspection-checklist-as-code" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/janitorial-schedule-builder"><img src="https://raw.githubusercontent.com/yassine2med/janitorial-schedule-builder/main/docs/banner.svg" alt="janitorial-schedule-builder" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/jha-template-builder"><img src="https://raw.githubusercontent.com/yassine2med/jha-template-builder/main/docs/banner.svg" alt="jha-template-builder" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/key-and-access-register"><img src="https://raw.githubusercontent.com/yassine2med/key-and-access-register/main/docs/banner.svg" alt="key-and-access-register" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/lockout-tagout-procedure-builder"><img src="https://raw.githubusercontent.com/yassine2med/lockout-tagout-procedure-builder/main/docs/banner.svg" alt="lockout-tagout-procedure-builder" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/lookahead-schedule-generator"><img src="https://raw.githubusercontent.com/yassine2med/lookahead-schedule-generator/main/docs/banner.svg" alt="lookahead-schedule-generator" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/meeting-minutes-action-tracker"><img src="https://raw.githubusercontent.com/yassine2med/meeting-minutes-action-tracker/main/docs/banner.svg" alt="meeting-minutes-action-tracker" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/osha-incident-rate-calculator"><img src="https://raw.githubusercontent.com/yassine2med/osha-incident-rate-calculator/main/docs/banner.svg" alt="osha-incident-rate-calculator" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/parcel-lookup-scripts"><img src="https://raw.githubusercontent.com/yassine2med/parcel-lookup-scripts/main/docs/banner.svg" alt="parcel-lookup-scripts" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/yassine2med/parking-allocation-tool"><img src="https://raw.githubusercontent.com/yassine2med/parking-allocation-tool/main/docs/banner.svg" alt="parking-allocation-tool" width="100%"></a></td>
 </tr>
 </table>
 
