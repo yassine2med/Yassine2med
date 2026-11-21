@@ -30,7 +30,7 @@ I build automation, websites and AI tooling that replace manual work.
 
 ## Selected work
 
-Sites and systems I helped build. On the React projects I worked mostly on the front end, with some back-end work.
+I have built **30+ websites and portfolios** for clients and individuals. These are some of the sites and systems I helped build. On the React projects I worked mostly on the front end, with some back-end work.
 
 | Project | Type | Stack |
 |---|---|---|
