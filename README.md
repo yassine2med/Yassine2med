@@ -23,31 +23,17 @@ I build automation, websites and AI tooling that replace manual work.
 
 ## Now
 
-- Running **ArcaneDot**, a studio that has shipped 28 projects for 20+ clients, as Founder and CTO.
-- Building **The DMV Hub**, a community site and Discord for DC, Maryland and Virginia.
-- Program analyst on a DC government facilities team, running 1,000+ work orders a month across 900+ public buildings.
-
+- **ArcaneDot**: I run this web studio as Founder and CTO. 28 projects shipped for 20+ clients, from one-page portfolios to full business sites.
+- **The DMV Hub**: a community site and Discord for adults in DC, Maryland and Virginia. Built from scratch and live.
+- **DC government facilities**: as a program analyst I help run 1,000+ work orders a month across 900+ public buildings, and I automate the boring parts.
 
 ## Selected work
 
-I have built **30+ websites and portfolios** for clients and individuals. These are some of the sites and systems I helped build. On the React projects I worked mostly on the front end, with some back-end work.
-
-| Project | Type | Stack |
-|---|---|---|
-| **ONP** | Website | React, Redux |
-| **Waraqi** | Website | React, Redux |
-| **Channel Shop** | E-commerce website | React, Redux |
-| **Sepret** | Website | React, Redux |
-| **Alfamines** | Company website | React, Redux |
-| **KooraLife** | Website | React, Redux |
-| **Senior Maryland Olympics** | Event website | WordPress |
-| **Imaam Center** | Mosque website | WordPress |
-| **I-Eteria** | Website | React, Redux |
-| **Attijariwafa Bank** | Contracting software | Microsoft Power Apps |
+<img src="assets/work.svg" alt="30+ websites and portfolios built. React and Redux sites: ONP, Waraqi, Channel Shop, Sepret, Alfamines, KooraLife, I-Eteria. WordPress: Senior Maryland Olympics, Imaam Center. Power Apps: Attijariwafa Bank contracting software." width="100%">
 
 ## Open source projects (34 repos)
 
-Small, tested tools for facility, building and operations teams. Each repo has a README with real output, a screenshot, tests and CI.
+Small tools for the people who keep buildings running: asset registers, work orders, bids, air quality, emergencies. I direct AI coding tools, review every result, and ship a repo only when its tests pass and its README shows real output.
 
 ### BIM, IFC and documents
 
