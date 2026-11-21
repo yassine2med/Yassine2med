@@ -4,8 +4,6 @@
 
 <br>
 
-<img src="assets/avatar.png" alt="Yassine Emhamed" width="150">
-
 **IT and Network Engineer** in the DC, Maryland and Virginia area.
 I build automation, websites and AI tooling that replace manual work.
 
