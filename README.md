@@ -39,7 +39,7 @@ I build automation, websites and AI tooling that replace manual work.
 
 ## How I work
 
-<img src="assets/practices.svg" alt="How I work. Methods: Scrum and Agile delivery, Software engineering, UML and object-oriented design, Project management, Test-driven habits, CI/CD pipelines, Code review, Technical documentation. Infrastructure: Network design and troubleshooting, TCP/IP and LAN, Wi-Fi and UniFi, Cisco CCNA track, UNIX and Linux administration, Windows administration, Network and systems security, Oracle database administration. Operations and business: Work-order management, Process automation, Vendor coordination, CRM administration, Data analysis and reporting, ERP concepts, Quality management, Entrepreneurship." width="100%">
+<img src="assets/practices.svg" alt="How I work. Methods: Scrum and Agile delivery, sprints, standups, retros, Software engineering, UML and object-oriented design, Project management, Test-driven habits, CI/CD pipelines, Code review, Technical documentation. Infrastructure: Network design and troubleshooting, TCP/IP and LAN, Wi-Fi and UniFi, Cisco CCNA track, UNIX and Linux administration, Windows administration, Network and systems security, Oracle database administration. Operations and business: Work-order management, Process automation, Vendor coordination, CRM administration, Data analysis and reporting, ERP concepts, Quality management, Entrepreneurship." width="100%">
 
 ## Education
 
